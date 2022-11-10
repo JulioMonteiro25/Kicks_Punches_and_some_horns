@@ -1,2 +1,2 @@
-# Kicks_Punches_and_some_horns
+<h1 align="center">Kicks punches and some horns</h1>
 Desenvolvimento de sistemas móveis - Jogo Boss Rush
