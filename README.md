@@ -1,7 +1,7 @@
 <h1 align="center">Kicks punches and some horns &#128074; &#128148; &#128127;</h1>
 
 
-<h3>Descrição</h3> O projeto consiste no desenvolvimento de um jogo boss rush, com a seguinte sinopse: o jogo gira em torno de Johnny Vincent, um rapaz que ao descobrir uma traição de sua amada Lola, resolve sair em busca dos homens que se relacionaram com ela no intuito de se vingarem deles, porém quanto mais ele "se vinga", mais  o chifre dele aumenta. Ao fim do percurso ele enfrenta chefão final, o homem no qual sua amada mais gostava de se relacionar. O objetivo é derrotar todos os inimigos no caminho e ajudar Johnny a concluir a vingança.
+<h3> &#128162; Descrição</h3> O projeto consiste no desenvolvimento de um jogo boss rush, com a seguinte sinopse: o jogo gira em torno de Johnny Vincent, um rapaz que ao descobrir uma traição de sua amada Lola, resolve sair em busca dos homens que se relacionaram com ela no intuito de se vingarem deles, porém quanto mais ele "se vinga", mais  o chifre dele aumenta. Ao fim do percurso ele enfrenta chefão final, o homem no qual sua amada mais gostava de se relacionar. O objetivo é derrotar todos os inimigos no caminho e ajudar Johnny a concluir a vingança.
 
 <h3> Requisitos </h3>
 1. Instalação do Flutter 3.0.5 <br>
