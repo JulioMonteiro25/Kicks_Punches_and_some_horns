@@ -12,12 +12,12 @@ Dependências: O programa “CookieSys” será desenvolvido em JAVA, que é uma
 
 <h2>Versões utilizadas</h2> 
 
-<h2>Autores</h2> Dennis Marcondes Silva <br>
+<h2>Autores</h2> Dennis Marcondes Silva <br/><br/><br/><br/><br/><br/><br/><br/><br/>y
 Gabriel Padovani da Silva <br> 
-Júlio Monteiro Assoni   RA. 202126199 <br>
+Júlio Monteiro Assoni <br>
 José Matias Lemes Filho.
 
 <h1>Ajuda</h1> Se você deseja fornecer um feedback, sugestão, ou dúvidas referentes ao programa pode encaminhar para um dos E-mails dos desenvolvedores: <br>
 - dennismarcondes08@gmail.com <br>
-- gabriel <br>
+- bielpado2010@gmail.com<br>
 - juliomonteiro025@gmail.com
