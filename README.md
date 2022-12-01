@@ -1,4 +1,4 @@
-<h1 align="center">Kicks punches and some horns &#128074; &#128127; &#128148;</h1>
+<h1 align="center">Kicks punches and some horns &#128074; &#128148; &#128127;</h1>
 
 <h3>Descrição</h3> O projeto consiste no desenvolvimento de um jogo boss rush, com a seguinte sinopse: o jogo gira em torno de Johnny Vincent, um rapaz que ao descobrir uma traição de sua amada Lola, resolve sair em busca dos homens que se relacionaram com ela no intuito de se vingarem deles. O objetivo é proporcionar ao usuário uma experiência melhor com o atendimento dos clientes de forma prática e rápida desde o primeiro contato do cliente até o final da venda.
 
