@@ -16,7 +16,7 @@ Versões utilizadas: Apache NetBeans IDE 14/ Postgresql - 6.8
 
 Autores: Dennis Marcondes Silva - dennis.silva@mail.usf.edu.br, Gabriel de Oliveira Santos - gabriel.o.santos@mail.usf.edu.br, Gabriel Padovani da Silva - gabriel.padovani.silva@mail.usf.edu.br, Giovani Storani Jacon - giovani.jacon@mail.usf.edu.br, José Matias Lemes Filho - jose.matias@mail.usf.deu.br, Júlio Monteiro Assoni - julio.assoni@mail.usf.edu.br e Otávio Augusto Fidêncio de Lima - otavio.fidencio@mail.usf.edu.br.
 
-Ajuda: Se você deseja fornecer um feedback, sugestão, ou dúvidas referentes ao programa pode encaminhar para um dos E-mails dos desenvolvedores: <br>
+<h1>Ajuda</h1> Se você deseja fornecer um feedback, sugestão, ou dúvidas referentes ao programa pode encaminhar para um dos E-mails dos desenvolvedores: <br>
 - dennis.silva@mail.usf.edu.br <br>
 - gabriel <br>
 - juliomonteiro025@gmail.com
