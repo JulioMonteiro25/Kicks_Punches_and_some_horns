@@ -29,7 +29,7 @@
 - bielpado2010@gmail.com<br>
 - juliomonteiro025@gmail.com <br>
 
-<h3> &#128162; Vídeo de apresentação </h3> Acesse o link do <a href=https://drive.google.com/file/d/1vKaIEDtk2e7Q98dkDLnHAOH7C9SRG8Az/view target=blank>vídeo</a> onde é detalhado todo código e apresentação do jogo
+<h3> &#128162; Vídeo de apresentação </h3> Acesse o <a href=https://drive.google.com/file/d/1vKaIEDtk2e7Q98dkDLnHAOH7C9SRG8Az/view target=blank>vídeo</a> onde é detalhado todo código e apresentação do jogo
 
 <h3> &#128162; Agradecimentos </h3>
 Agradecimentos a Universidade São Francisco pela experiência de desenvolver um jogo mobile utilizando específicas linguagens de programação e ao professor josé Matias Lemes Filho pela competência e êxito em lecionar e nos orientar ao longo de todo o projeto.
