@@ -15,9 +15,17 @@ Dependências: O programa “CookieSys” será desenvolvido em JAVA, que é uma
 <h3>Autores</h3> Dennis Marcondes Silva <br>
 Gabriel Padovani da Silva <br> 
 Júlio Monteiro Assoni <br>
-José Matias Lemes Filho.
+José Matias Lemes Filho <br>
+
+<h3>Trabalhos Futuros</h3> - Correção de bugs e melhorias: Correção do bug onde o personagem realiza a ação de dar um soco no oponente <br>
+- Implementar hitórico de pontuação (dano causado) <br>
+- Implementar novos cenários <br>
+- Modo Arcade <br>
 
 <h3>Ajuda</h3> Se você deseja fornecer um feedback, sugestão, ou dúvidas referentes ao programa pode encaminhar para um dos E-mails dos desenvolvedores: <br>
 - dennismarcondes08@gmail.com <br>
 - bielpado2010@gmail.com<br>
-- juliomonteiro025@gmail.com
+- juliomonteiro025@gmail.com <br>
+
+<h3> Agradecimentos </h3>
+Agradecimentos a Universidade São Francisco pela experiência de desenvolver um jogo mobile utilizando específicas linguagens de programação e ao professor josé Matias Lemes Filho pela competência e êxito em lecionar e nos orientar ao longo de todo o projeto.
