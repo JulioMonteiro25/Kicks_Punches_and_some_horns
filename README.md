@@ -19,10 +19,10 @@
 - Modo Arcade <br>
 - Trilha sonora
 
-<h3>Colaboradores</h3> &#5125; Dennis Marcondes Silva <br>
-&#5125; Gabriel Padovani da Silva <br> 
-&#5125; Júlio Monteiro Assoni <br>
-José Matias Lemes Filho <br>
+<h3>Colaboradores</h3> &#5125; Dennis Marcondes Silva - RA 202120391 <br>
+&#5125; Gabriel Padovani da Silva - RA 202118753 <br> 
+&#5125; Júlio Monteiro Assoni - RA 202126199 <br>
+&#5125; José Matias Lemes Filho <br>
 
 <h3>Ajuda</h3> Se você deseja fornecer um feedback, sugestão, ou dúvidas referentes ao programa pode encaminhar para um dos E-mails dos desenvolvedores: <br>
 - dennismarcondes08@gmail.com <br>
