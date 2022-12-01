@@ -8,13 +8,11 @@ LINK:  https://drive.google.com/file/d/1siVjWC9qgUdkuvSRrWZMWsM5bJF10vEG/view?us
 
 Dependências: O programa “CookieSys” será desenvolvido em JAVA, que é uma linguagem orientada a objetos. Após a conclusão do mesmo, rodará em um LocalHost, refere-se ao computador do usuário e todo armazenamento será feito no SQL SERVER, é um sistema gerenciador e banco de dados. O grupo optou pelo modelo de microservices para o desenvolvimento do programa, pois este método permitirá que tanto o controle de estoque quanto o cadastro de clientes funcionem de formas independentes e simples dentro do sistema, este que terá sua programação feita em linguagem JAVA.
 
-<h2>Instalação</h2> para baixar o APK do jogo, acesse o link https://drive.google.com/file/d/1siVjWC9qgUdkuvSRrWZMWsM5bJF10vEG/view?usp=share_link 
+<h2>Instalação</h2> para baixar o APK do jogo, acesse o link https://drive.google.com/file/d/1siVjWC9qgUdkuvSRrWZMWsM5bJF10vEG/view?usp=share_link
 
-Download do Banco de dados PostgreSQL - https://www.jetbrains.com/datagrip/download/?source=google&medium=cpc&campaign=17355532731&term=postgresql&gclid=Cj0KCQjwhqaVBhCxARIsAHK1tiNgQTobKF0lI5srtIqGOKKL6zgD41jwr1ihFht1ExZ7yeTHLT-pRyMaAuIgEALw_wcB#section=windows.
+<h2>Versões utilizadas</h2> 
 
-Versões utilizadas: Apache NetBeans IDE 14/ Postgresql - 6.8
-
-<h2>Autores</h2>: Dennis Marcondes Silva <br>
+<h2>Autores</h2> Dennis Marcondes Silva <br>
 Gabriel Padovani da Silva <br> 
 Júlio Monteiro Assoni   RA. 202126199 <br>
 José Matias Lemes Filho.
