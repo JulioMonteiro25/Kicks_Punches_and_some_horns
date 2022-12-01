@@ -12,7 +12,7 @@ Dependências: O programa “CookieSys” será desenvolvido em JAVA, que é uma
 
 <h2>Versões utilizadas</h2> 
 
-<h2>Autores</h2> Dennis Marcondes Silva <br/><br/><br/><br/><br/><br/><br/><br/><br/>y
+<h2>Autores</h2> Dennis Marcondes Silva <br>
 Gabriel Padovani da Silva <br> 
 Júlio Monteiro Assoni <br>
 José Matias Lemes Filho.
