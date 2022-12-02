@@ -32,7 +32,7 @@
 <h3> &#128162; Vídeo de apresentação </h3> Acesse o <a href=https://drive.google.com/file/d/1vKaIEDtk2e7Q98dkDLnHAOH7C9SRG8Az/view target=blank>vídeo</a> onde é detalhado todo código e apresentação do jogo
 
 <h3> &#128162; Agradecimentos </h3>
-Agradecimentos a Universidade São Francisco pela experiência de desenvolver um jogo mobile utilizando específicas linguagens de programação e ao professor josé Matias Lemes Filho pela competência e êxito em lecionar e nos orientar ao longo de todo o projeto.
+Agradecimentos a Universidade São Francisco pela experiência de desenvolver um jogo mobile utilizando específicas linguagens de programação e ao professor José Matias Lemes Filho pela competência e êxito em lecionar e nos orientar ao longo de todo o projeto.
 
 
 <a href=https://github.com/JulioMonteiro25/Kicks_Punches_and_some_horns/blob/main/README.md target= blank>Link do Github</a>
